@@ -15,7 +15,7 @@ dataset:
  # image_size: 224
   batch_size: 32
   image_size: 448
-  num_workers: 23
+  num_workers: 5
 
 optimizer:
   name: SGD
