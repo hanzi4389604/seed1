@@ -15,7 +15,7 @@ https://arxiv.org/abs/1905.11946
 ### Train
 
 ```shell
-$ python train.py -c ./configs/custom.yaml -r /path to efficientnet.././datasets/combine_of_Ama_Bra_Leg_15spp
+$ python train.py -c ./configs/custom.yaml -r /path to efficientnet.././datasets/combine_of_Ama_Bra_Leg_15spp 
 ```
 
 ## TO-DO
