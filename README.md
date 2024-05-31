@@ -6,7 +6,7 @@ https://arxiv.org/abs/1905.11946
 ## Prerequisites
 
 - Ubuntu 20.04
-- Python 3
+- Python 3.11
   - torch 1.1.0
   - torchvision 0.3.0
 
